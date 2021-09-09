@@ -1,3 +1,4 @@
 # hello-world
-1° dptory
-Hello viewer, learning is work hard, but its worth the pain, good luck with that ;)
+Hello viewer:
+Learning is work hard, but its worth the pain.
+Good luck with that ;)
